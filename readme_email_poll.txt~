@@ -25,11 +25,3 @@ link correspondente.
 O sistema registra o voto do que for clicado.
 *) O sistema lista a reportagem de pessoas, emails e votos.
 
-
-// nessa direção nao funcionou
-ln -s /home/sbvb/Dropbox/projects/email_poll/email_poll_git/email_poll_web /var/www/email_poll_web
-
-
-
-ln -s /var/www/email_poll_web /home/sbvb/Dropbox/projects/email_poll/email_poll_git/email_poll_web 
-
